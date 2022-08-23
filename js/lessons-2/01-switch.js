@@ -54,9 +54,9 @@
 
 
 
-// if (stars === 1 || start ===2) {
+// if (stars === 1 || start === 2) {
 //    price = 20;
-// } else if (stars === 3 || start ===4) {
+// } else if (stars === 3 || start === 4) {
 //    price = 30;
 // } else if (stars === 5) {
 //    price = 120;
