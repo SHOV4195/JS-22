@@ -49,9 +49,9 @@
 
 // Перебор массива
 
-// const friends = ['Mango', 'Kiwi', 'Poly', 'Ajax'];
-// console.table(friends);
-// const lastIndex = friends.length - 1;
+const friends = ['Mango', 'Kiwi', 'Poly', 'Ajax'];
+console.table(friends);
+const lastIndex = friends.length - 1;
 
 // for (let i = 0; i <= lastIndex; i += 1) {
 //    friends[i] += '-1';
@@ -60,9 +60,9 @@
 
 
 // не нужен перебор елемента
-// for (const friend of friends) {
-//    console.log(friend);
-// }
+for (const friend of friends) {
+   console.log(friend);
+}
 
-// console.table(friends);
+console.table(friends);
 
